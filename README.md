@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm [Your Name]</h2>
+<h1 align="center">Hi 👋, I'm Sushma Chowdary</h1>
+<h3 align="center">I'm curious, enthusiastic and student most of the time, like the rest of the time to work on diffrent ML models.</h3>
 
 ###
 
@@ -98,21 +99,16 @@
 
 ---
 
-This layout is cleaner and separates the tools and technologies into relevant categories. Let me know if there’s anything else to tweak! 😊
-
 ###
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ### 🌐 Connect with Me  
 <div align="left">
-  <a href="https://discord.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:sushma20082005@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/sushma-chowdary-mutyala-170853292/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
   </a>
 </div>
